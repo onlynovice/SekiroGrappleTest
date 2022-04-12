@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{9CD88AF4-4723-E792-56A2-DDAE2C3DB7B5}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SekiroGrapple",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
